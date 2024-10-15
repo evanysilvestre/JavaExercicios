@@ -1,1 +1,1 @@
-![Lista de tarefas](img src="/src/img/listaEx3.png")
+![Lista de tarefas](src/img/listaEx3.png")
